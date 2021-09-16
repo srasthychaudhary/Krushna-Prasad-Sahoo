@@ -1,6 +1,6 @@
 
 
-## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Krushna Prasad!](https://heykrushna.xyz/) 
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Myself [Krushna Prasad Sahoo!](https://heykrushna.xyz/) 
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=EDBB99&vCenter=true&lines=I+believe+in+...)
